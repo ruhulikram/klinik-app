@@ -1,6 +1,7 @@
 # klinik_app
 
 Mobile programming klinik app.
+Bina Sarana Informatika University
 
 ## Getting Started
 
